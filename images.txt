@@ -1,3 +1,3 @@
 nginx
-halohub/halo
+halohub/halo:2.16
 chishin/nginx-proxy-manager-zh:release
